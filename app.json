@@ -81,7 +81,7 @@
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,💚,💚,💚",
       "required": false 
     },
     "AUTO_REACT": {
@@ -111,7 +111,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "1",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
